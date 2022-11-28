@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/back_round_image.jpeg</file>
+        <file>images/white_photo.jpg</file>
+        <file>images/Icon_1.ico</file>
+        <file>images/new_cosmonavt.png</file>
+        <file>Signals/error_signal_1.mp3</file>
+        <file>images/stars-users.png</file>
+        <file>images/Smyl_1.png</file>
+        <file>images/Smyl_2.png</file>
+        <file>images/Smyl_3.png</file>
+        <file>images/Smyl_4.png</file>
+        <file>Signals/badly.mp3</file>
+        <file>Signals/error_signal_2.mp3</file>
+        <file>Signals/signal_corect_answer.mp3</file>
+        <file>Signals/signal_victory.mp3</file>
+    </qresource>
+</RCC>
